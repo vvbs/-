@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+  }
+  
+  #quiz {
+    margin-bottom: 50px;
+  }
+  
+  #submit {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #results {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+
+  h1 {
+    order: -1;
+    text-align: center;
+  }
