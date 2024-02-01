@@ -22,7 +22,7 @@ const quizData = [
      {
       question: "ナメクジがかけられると溶けるのは塩と",
       choices: ["醤油", "砂糖", "小麦粉", "片栗粉"],
-      correctAnswer: 
+      correctAnswer: 1
     },
   
 
