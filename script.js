@@ -78,3 +78,6 @@ const quizData = [
   }
   
   submitButton.addEventListener('click', showResults);
+
+  buildQuiz();
+  
